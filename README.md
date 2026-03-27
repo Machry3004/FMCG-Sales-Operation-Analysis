@@ -21,7 +21,7 @@ The business lacked a single, reliable view of its operations. Management was ma
 ## Report Overview
 The dashboard consists of two interactive pages covering sales trends, SKU performance, promotion effectiveness, channel and regional revenue, delivery performance, pack type distribution, and brand contribution.
 
-<img src="">
+<img src="https://github.com/Machry3004/FMCG-Sales-Operation-Analysis/blob/main/FMCG%201.png">
 
 <img src="">
 
