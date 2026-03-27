@@ -23,7 +23,7 @@ The dashboard consists of two interactive pages covering sales trends, SKU perfo
 
 <img src="https://github.com/Machry3004/FMCG-Sales-Operation-Analysis/blob/main/FMCG%201.png">
 
-<img src="">
+<img src="https://github.com/Machry3004/FMCG-Sales-Operation-Analysis/blob/main/FMCG%202.png">
 
 *Note: The images above use local file paths. For correct display on GitHub, please upload the images to your repository and update the paths accordingly (e.g., `./images/FMCG1.png`).*
 
